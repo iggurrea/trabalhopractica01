@@ -1,4 +1,4 @@
-body: Padding(
+/*body: Padding(
   // Adds 20 pixels of padding around the entire body content
   padding: const EdgeInsets.all(20.0),
 
@@ -59,4 +59,4 @@ body: Padding(
       ),
     ],
   ),
-),
+),*/
