@@ -1,13 +1,17 @@
 import 'package:flutter/material.dart';
+import 'basecalc.dart';
 
+//Main of the apliccation
 void main() {
   runApp(const MyCalcApp());
 }
 
+
+//Principal class for the calculator
 class MyCalcApp extends StatelessWidget {
   const MyCalcApp({super.key});
 
-  // This widget is the root of your application.
+  // The root of the application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -17,7 +21,7 @@ class MyCalcApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyCalcApp(),
+      home: const BaseCalc(),
     );
   }
 }
