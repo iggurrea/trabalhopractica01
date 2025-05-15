@@ -6,7 +6,6 @@ void main() {
   runApp(const MyCalcApp());
 }
 
-
 //Principal class for the calculator
 class MyCalcApp extends StatelessWidget {
   const MyCalcApp({super.key});
@@ -17,7 +16,6 @@ class MyCalcApp extends StatelessWidget {
     return MaterialApp(
       title: 'Number base converter',
       theme: ThemeData(
-        
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),

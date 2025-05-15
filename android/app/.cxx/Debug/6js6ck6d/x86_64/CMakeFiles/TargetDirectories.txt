@@ -1,0 +1,2 @@
+C:/Users/Nacho/trabalhopractica01/android/app/.cxx/Debug/6js6ck6d/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Nacho/trabalhopractica01/android/app/.cxx/Debug/6js6ck6d/x86_64/CMakeFiles/rebuild_cache.dir
