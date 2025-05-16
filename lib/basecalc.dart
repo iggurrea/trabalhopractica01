@@ -40,7 +40,7 @@ class _BaseCalcState extends State<BaseCalc> {
     }
   }
 
-//Converts the string in a integer in the specified base
+//Converts the string in a integer in the specified base (base 10)
   int parseInput(String input, String base) {
     switch (base) {
       case 'Decimal':
